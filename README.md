@@ -18,6 +18,20 @@ Repo: [Book Finder](https://github.com/ninabuscemi/mod-21-book-finder)
 
 ## Usage
 
+To install dependencies:
+
+```
+npm install
+```
+
+```
+npm run build
+```
+
+```
+npm run develop
+```
+
 ## License
 
 The project is under MIT License.
