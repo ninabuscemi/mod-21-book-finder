@@ -10,7 +10,6 @@ A fully functioning Google Books API search engine built with a RESTful API, and
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshot](#screenshot)
 - [License](#license)
 - [Questions](#questions)
 
